@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://speckle-studios-chavi-aliza.chavikumari13.chatgpt.site/sitemap.xml

@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/1a-qgimiwsi0o.css","style"]
+:HL["/projects/candie/2-1920.webp","image",{"imageSrcSet":"/projects/candie/2-480.webp 480w, /projects/candie/2-960.webp 960w, /projects/candie/2-1920.webp 1920w","imageSizes":"90vw","fetchPriority":"high"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"work","h":96,"c":"$Q2"}]]
+0:{"b":"MrpXO2a0VaZue4B12Qs1p","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
